@@ -1,0 +1,7 @@
+{
+  "name": "EarnSolana",
+  "symbol": "ESOL",
+  "uri": "https://raw.githubusercontent.com/Pimarttoken/EarnSolana/main/token.json",
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
